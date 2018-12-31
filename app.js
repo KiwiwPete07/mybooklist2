@@ -1,4 +1,3 @@
-// New Comment
 // Book Class: represents a book
 class Book {
   constructor(title, author, isbn) {
